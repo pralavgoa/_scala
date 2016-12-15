@@ -1,0 +1,3 @@
+Totality: A function must yield a value for every possible input
+Determinism: A funtion must yield the sam value for the same input
+Purity: A function's only effect must be the computation of its return value
